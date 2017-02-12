@@ -23,7 +23,7 @@ import java.util.List;
 @RunWith(SpringRunner.class)
 @DataJpaTest
 //@ContextConfiguration
-public class ArticleRepositoryTests {
+public class ArticleRepositoryTest {
 
     @Autowired
     private ArticleRepository articleRepository;
